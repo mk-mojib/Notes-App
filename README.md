@@ -18,6 +18,32 @@ Check out the live demo of the application [here](https://main--mk-notes.netlify
 
 ## Getting Started
 
+### Project Structure
+.
+├── public
+│   ├── index.html
+│   └── ...
+├── src
+│   ├── Components
+│   │   ├── Note
+│   │   │   ├── Note.js
+│   │   │   └── Note.css
+│   │   ├── NoteContainer
+│   │   │   ├── NoteContainer.js
+│   │   │   └── NoteContainer.css
+│   │   ├── Search
+│   │   │   ├── Search.js
+│   │   │   └── Search.css
+│   │   └── Sidebar
+│   │       ├── Sidebar.js
+│   │       └── Sidebar.css
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+├── package.json
+├── README.md
+└── ...
+
 ### Prerequisites
 
 - Node.js (version 14 or later)
@@ -30,3 +56,5 @@ Check out the live demo of the application [here](https://main--mk-notes.netlify
    ```sh
    git clone https://github.com/yourusername/note-app.git
    cd note-app
+
+

@@ -20,29 +20,7 @@ Check out the live demo of the application [here](https://main--mk-notes.netlify
 
 ### Project Structure
 .
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── Components
-│   │   ├── Note
-│   │   │   ├── Note.js
-│   │   │   └── Note.css
-│   │   ├── NoteContainer
-│   │   │   ├── NoteContainer.js
-│   │   │   └── NoteContainer.css
-│   │   ├── Search
-│   │   │   ├── Search.js
-│   │   │   └── Search.css
-│   │   └── Sidebar
-│   │       ├── Sidebar.js
-│   │       └── Sidebar.css
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-├── package.json
-├── README.md
-└── ...
+![alt text](image.png)
 
 ### Prerequisites
 
